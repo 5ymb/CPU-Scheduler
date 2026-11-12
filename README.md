@@ -201,16 +201,6 @@ Round Robin     AWT: ...      ATAT: ...
 <li>Data is held in memory only and is cleared when the program exits.</li>
 </ul>
 
-<hr>
-
-<h2>🔮 Possible Improvements</h2>
-
-<ul>
-<li>Add Shortest Remaining Time First (SRTF) and preemptive Priority scheduling.</li>
-<li>Display a Gantt chart for each algorithm.</li>
-<li>Allow loading processes from a file.</li>
-<li>Add a graphical interface with JavaFX or Swing.</li>
-</ul>
 
 <hr>
 
