@@ -215,7 +215,7 @@ Round Robin     AWT: ...      ATAT: ...
 <hr>
 
 <p align="center">
-<i>Developed by <strong>&lt;Your Name&gt;</strong></i>
+<i>Developed by <strong>Abdulqader & Hamed</strong></i>
 </p>
 <p align="center">
 <i>Built with Java.</i>
