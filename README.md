@@ -194,12 +194,12 @@ Round Robin     AWT: ...      ATAT: ...
 
 <h2>⚠️ Notes and Limitations</h2>
 
-<ul>
+<blockquote>
 <li>The program supports a maximum of <strong>5 processes</strong> per run.</li>
 <li>SJF and Priority are <strong>non-preemptive</strong>; preemptive versions (SRTF and preemptive priority) are not included.</li>
 <li>When two processes tie (same burst time or priority), the one that appears first in the input list is selected.</li>
 <li>Data is held in memory only and is cleared when the program exits.</li>
-</ul>
+</blockquote>
 
 
 <hr>
